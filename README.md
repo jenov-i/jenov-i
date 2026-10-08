@@ -47,22 +47,18 @@ Infrastructure
 
 ## 🛠️ Technologies
 
-```{=html}
 <p align="left">
-```
-`<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">`{=html}
-`<img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" alt="Debian">`{=html}
-`<img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows Server">`{=html}
-`<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco">`{=html}
-`<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">`{=html}
-`<img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible">`{=html}
-`<img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white" alt="Bash">`{=html}
-`<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">`{=html}
-`<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">`{=html}
-`<img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" alt="VMware">`{=html}
-```{=html}
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" alt="Debian">
+  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows Server">
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible">
+  <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white" alt="Bash">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" alt="VMware">
 </p>
-```
 
 ------------------------------------------------------------------------
 
@@ -160,24 +156,18 @@ enseignements tirés.
 
 ## 📫 Me retrouver
 
-```{=html}
 <p align="left">
-```
-`<a href="https://github.com/jenov-i">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-jenov--i-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">`{=html}
-`</a>`{=html} `<a href="https://www.linkedin.com/">`{=html}
-`<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">`{=html}
-`</a>`{=html}
-```{=html}
+  <a href="https://github.com/jenov-i">
+    <img src="https://img.shields.io/badge/GitHub-jenov--i-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/jenovi-dandou">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
-```
 
 ------------------------------------------------------------------------
-
-```{=html}
 <p align="center">
-```
-`<i>`{=html}Learn • Build • Test • Document`</i>`{=html}
-```{=html}
+  <i>Learn • Build • Test • Document</i>
+</p><p align="center">
+  <i>Learn • Build • Test • Document</i>
 </p>
-```
