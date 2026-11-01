@@ -100,6 +100,23 @@ Mon laboratoire principal regroupe des projets pratiques autour de :
 
 👉 **[Voir mon SysAdmin Lab](https://github.com/jenov-i/sysadmin-lab)**
 
+### 💬 `appcall`
+
+Une **messagerie avec appels audio/vidéo auto-hébergée** (Node.js, Express, PostgreSQL, MinIO, WebRTC) — le projet où j'apprends Docker, l'API design et la sécurité en écrivant mon propre service.
+
+### 🌐 `netplan`
+
+Un projet web (HTML/CSS/JS + tests) — mon terrain de jeu front-end.
+
+## 🎓 Certifications en détail
+
+| Statut | Certification | Émetteur |
+|---|---|---|
+| ✅ | Google IT Support Professional Certificate | Google / Coursera |
+| ⏳ | Akamai Network Engineering Professional Certificate | Coursera |
+| ✅ | Formation CCNA 200-301 | iCONNECT |
+
+
 ------------------------------------------------------------------------
 
 ## 🎯 Ma façon d'apprendre
@@ -165,9 +182,9 @@ enseignements tirés.
   </a>
 </p>
 
+📧 **dandoujenovi@gmail.com** — ouvert aux opportunités : administration systèmes & réseaux, sécurité réseau, support IT niveau 2.
+
 ------------------------------------------------------------------------
 <p align="center">
-  <i>Learn • Build • Test • Document</i>
-</p><p align="center">
   <i>Learn • Build • Test • Document</i>
 </p>
