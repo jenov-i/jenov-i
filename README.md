@@ -1,51 +1,24 @@
-# 👋 Bonjour, moi c'est Jenovi
+# Jenovi Dandou
 
-### `Systèmes & Réseaux` • `Cybersécurité` • `Cloud` • `DevOps`
+**Administration systèmes & réseaux · Cybersécurité**
 
-Je suis étudiant en **Sciences et Technologies de l'Informatique**, avec
-un intérêt particulier pour l'**administration systèmes et réseaux** et
-la **cybersécurité**.
+Étudiant en Sciences et Technologies de l'Informatique, j'apprends en construisant :
+je monte des laboratoires virtualisés, je les casse, je les répare, et je documente
+chaque étape jusqu'au résultat vérifié.
 
-Je construis progressivement mes compétences à travers des **labs
-pratiques**, des projets d'infrastructure et de sécurité, et leur
-documentation sur GitHub.
+---
 
-------------------------------------------------------------------------
+## Ce que je fais
 
-## 🧑‍💻 Ce que je travaille
+- **Systèmes** — Debian, Windows Server, Active Directory, durcissement
+- **Réseaux** — TCP/IP, VLAN, routage, DNS, VPN, équipements Cisco
+- **Cybersécurité** — segmentation, journalisation, détection, réponse à incident
+- **Infrastructure** — VMware, Docker, Ansible, Git
 
-``` text
-Systèmes
-├── Linux / Debian
-├── Windows Server
-├── Active Directory
-└── Administration & hardening
+Les expérimentations offensives restent confinées à des laboratoires isolés ou à
+des plateformes d'entraînement légales.
 
-Réseaux
-├── TCP/IP
-├── VLAN / Routage
-├── Cisco
-├── VPN
-└── Services réseau
-
-Cybersécurité
-├── Sécurité réseau
-├── Hardening
-├── Monitoring & détection
-├── SIEM / SOC
-└── Labs de sécurité
-
-Infrastructure
-├── VMware
-├── Docker
-├── Cloud
-├── Ansible
-└── Infrastructure as Code
-```
-
-------------------------------------------------------------------------
-
-## 🛠️ Technologies
+## Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
@@ -56,135 +29,29 @@ Infrastructure
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible">
   <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white" alt="Bash">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" alt="VMware">
 </p>
 
-------------------------------------------------------------------------
+## Projets
 
-## 🔬 Mon laboratoire
+| Dépôt | En une phrase |
+|---|---|
+| [**sysadmin-lab**](https://github.com/jenov-i/sysadmin-lab) | Mon laboratoire principal : des projets d'infrastructure et de sécurité, chacun documenté avec ses configurations, ses captures et ses tests. |
+| [**loba**](https://github.com/jenov-i/loba) | Messagerie auto-hébergée avec appels WebRTC (Node.js, Socket.IO, PostgreSQL, MinIO). |
+| [**portfolio**](https://jenov-i.github.io) | Mon site personnel, qui présente le parcours et les projets. |
 
-Je travaille principalement dans des environnements **virtualisés et
-isolés** afin de pratiquer l'administration, le réseau et la sécurité
-sans dépendre d'une infrastructure de production.
-
-**Outils principaux :**
-
--   VMware Workstation
--   Debian / Ubuntu
--   Windows Server
--   PNetLab
--   Cisco Packet Tracer
--   Docker
--   Git & GitHub
-
-------------------------------------------------------------------------
-
-## 📂 Mon portfolio technique
-
-### 🖥️ `sysadmin-lab`
-
-Mon laboratoire principal regroupe des projets pratiques autour de :
-
--   Administration Linux
--   Windows Server & Active Directory
--   Réseaux
--   Sécurité réseau
--   Cybersécurité
--   SOC & supervision
--   Virtualisation & Cloud
--   Docker & DevOps
--   Automatisation
--   Services réseau
--   Sauvegarde & haute disponibilité
-
-👉 **[Voir mon SysAdmin Lab](https://github.com/jenov-i/sysadmin-lab)**
-
-### 💬 `appcall`
-
-Une **messagerie avec appels audio/vidéo auto-hébergée** (Node.js, Express, PostgreSQL, MinIO, WebRTC) — le projet où j'apprends Docker, l'API design et la sécurité en écrivant mon propre service.
-
-### 🌐 `netplan`
-
-Un projet web (HTML/CSS/JS + tests) — mon terrain de jeu front-end.
-
-## 🎓 Certifications en détail
+## Certifications
 
 | Statut | Certification | Émetteur |
 |---|---|---|
 | ✅ | Google IT Support Professional Certificate | Google / Coursera |
-| ⏳ | Akamai Network Engineering Professional Certificate | Coursera |
 | ✅ | Formation CCNA 200-301 | iCONNECT |
+| ⏳ | Akamai Network Engineering Professional Certificate | Coursera |
 
+## Contact
 
-------------------------------------------------------------------------
+[LinkedIn](https://www.linkedin.com/in/jenovi-dandou) · dandoujenovi@gmail.com
 
-## 🎯 Ma façon d'apprendre
+Ouvert aux opportunités en administration systèmes & réseaux, sécurité réseau et
+support informatique de niveau 2.
 
-Je privilégie une approche simple :
-
-``` text
-Apprendre
-   ↓
-Construire
-   ↓
-Tester
-   ↓
-Casser
-   ↓
-Diagnostiquer
-   ↓
-Corriger
-   ↓
-Documenter
-```
-
-Chaque projet doit me permettre de comprendre **pourquoi** une
-configuration fonctionne, pas seulement de recopier des commandes.
-
-------------------------------------------------------------------------
-
-## 🔐 Cybersécurité
-
-Les expérimentations offensives sont réalisées uniquement dans des
-**laboratoires isolés** ou sur des plateformes légales d'entraînement.
-
-Je m'intéresse particulièrement à :
-
--   la sécurisation des systèmes ;
--   le hardening ;
--   la sécurité réseau ;
--   la journalisation ;
--   la détection ;
--   l'analyse des incidents ;
--   la correction des vulnérabilités.
-
-------------------------------------------------------------------------
-
-## 📚 En cours
-
-🚧 Construction progressive de mon portfolio technique.
-
-Les projets sont ajoutés au fur et à mesure de leur réalisation, avec
-leur configuration, leurs tests, les problèmes rencontrés et les
-enseignements tirés.
-
-------------------------------------------------------------------------
-
-## 📫 Me retrouver
-
-<p align="left">
-  <a href="https://github.com/jenov-i">
-    <img src="https://img.shields.io/badge/GitHub-jenov--i-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/jenovi-dandou">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
-
-📧 **dandoujenovi@gmail.com** — ouvert aux opportunités : administration systèmes & réseaux, sécurité réseau, support IT niveau 2.
-
-------------------------------------------------------------------------
-<p align="center">
-  <i>Learn • Build • Test • Document</i>
-</p>
+<p align="center"><i>Apprendre · Construire · Tester · Documenter</i></p>
